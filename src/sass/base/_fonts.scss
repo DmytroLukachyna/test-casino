@@ -1,0 +1,133 @@
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Regular.eot');
+    src: url('../fonts/Ambit-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Regular.woff2') format('woff2'), url('../fonts/Ambit-Regular.woff') format('woff'), url('../fonts/Ambit-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Black.eot');
+    src: url('../fonts/Ambit-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Black.woff2') format('woff2'), url('../fonts/Ambit-Black.woff') format('woff'), url('../fonts/Ambit-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-BoldItalic.eot');
+    src: url('../fonts/Ambit-BoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-BoldItalic.woff2') format('woff2'), url('../fonts/Ambit-BoldItalic.woff') format('woff'), url('../fonts/Ambit-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-SemiBoldItalic.eot');
+    src: url('../fonts/Ambit-SemiBoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-SemiBoldItalic.woff2') format('woff2'), url('../fonts/Ambit-SemiBoldItalic.woff') format('woff'), url('../fonts/Ambit-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Italic.eot');
+    src: url('../fonts/Ambit-Italic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Italic.woff2') format('woff2'), url('../fonts/Ambit-Italic.woff') format('woff'), url('../fonts/Ambit-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-ThinItalic.eot');
+    src: url('../fonts/Ambit-ThinItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-ThinItalic.woff2') format('woff2'), url('../fonts/Ambit-ThinItalic.woff') format('woff'), url('../fonts/Ambit-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Thin.eot');
+    src: url('../fonts/Ambit-Thin.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Thin.woff2') format('woff2'), url('../fonts/Ambit-Thin.woff') format('woff'), url('../fonts/Ambit-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Bold.eot');
+    src: url('../fonts/Ambit-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Bold.woff2') format('woff2'), url('../fonts/Ambit-Bold.woff') format('woff'), url('../fonts/Ambit-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-ExtraLight.eot');
+    src: url('../fonts/Ambit-ExtraLight.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-ExtraLight.woff2') format('woff2'), url('../fonts/Ambit-ExtraLight.woff') format('woff'), url('../fonts/Ambit-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-Light.eot');
+    src: url('../fonts/Ambit-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-Light.woff2') format('woff2'), url('../fonts/Ambit-Light.woff') format('woff'), url('../fonts/Ambit-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-SemiBold.eot');
+    src: url('../fonts/Ambit-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-SemiBold.woff2') format('woff2'), url('../fonts/Ambit-SemiBold.woff') format('woff'), url('../fonts/Ambit-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-LightItalic.eot');
+    src: url('../fonts/Ambit-LightItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-LightItalic.woff2') format('woff2'), url('../fonts/Ambit-LightItalic.woff') format('woff'), url('../fonts/Ambit-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-BlackItalic.eot');
+    src: url('../fonts/Ambit-BlackItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-BlackItalic.woff2') format('woff2'), url('../fonts/Ambit-BlackItalic.woff') format('woff'), url('../fonts/Ambit-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ambit';
+    src: url('../fonts/Ambit-ExtraLightItalic.eot');
+    src: url('../fonts/Ambit-ExtraLightItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Ambit-ExtraLightItalic.woff2') format('woff2'), url('../fonts/Ambit-ExtraLightItalic.woff') format('woff'), url('../fonts/Ambit-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+* {
+    font-family: 'Ambit';
+    &::selection {
+        background: transparent;
+        color: rgb(180, 180, 180);
+    }
+}
