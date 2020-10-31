@@ -12,7 +12,7 @@
         background: rgb(244, 238, 66);
         font-weight: bold;
         font-size: 64px;
-        line-height: 74px;
+        line-height: 80px;
         height: 96px;
         vertical-align: middle;
     }
@@ -74,7 +74,7 @@
     &__rating {
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content: flex-start;
         &-text {
             font-weight: bold;
             font-size: 48px;
@@ -83,6 +83,7 @@
             text-transform: uppercase;
         }
         &-stars {
+            margin-top: 78px;
             display: flex;
             justify-content: center;
         }
@@ -129,6 +130,7 @@
     &__wrapper {
         display: flex;
         justify-content: space-between;
+        width: 100%;
         &_left {
             max-width: 617px;
         }
