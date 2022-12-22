@@ -1,0 +1,45 @@
+.btn {
+  background: rgb(255, 247, 43);
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(27, 30, 39);
+  text-transform: capitalize;
+  &:hover {
+    background: rgb(255, 217, 43);
+  }
+  &:active {
+    background: rgb(255, 247, 43);
+    transform: scale(0.98);
+  }
+  &_main {
+    width: 469px;
+    height: 87px;
+  }
+  &_casino {
+    width: 364px;
+    height: 73px;
+  }
+  &_games {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    width: 239px;
+    height: 75px;
+  }
+  &_desk {
+    width: 469px;
+    height: 95px;
+  }
+  &_submit {
+    width: 345px;
+    height: 74px;
+  }
+}

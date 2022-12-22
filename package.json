@@ -1,0 +1,25 @@
+{
+  "name": "test-casino",
+  "version": "1.0.0",
+  "description": "casino",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,scss,md}' --config ./.prettierrc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "browser-sync": "^2.27.11",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "prettier": "^2.8.1",
+    "sass": "^1.57.1"
+  }
+}
